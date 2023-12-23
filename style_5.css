@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: revert;
+}
+body{
+    background-image: url("IMAGES/0019.jpg");
+    background-size: 100% 740px;
+}
+.contain{
+    width: 330px;
+    height: 580px;
+    background-color: lightgreen;
+    margin-left: 75%;
+    margin-top: 2%;
+    text-align: center;
+    color: black;
+    border-radius: 15px;
+}
+.contain .text{
+    position: relative;
+    top: 7%;
+
+}
+
+.inp1{
+    border: none;
+    background-color: white;
+    border-bottom: 3px solid white;
+    width: 280px;
+    font-size: 17px;
+    margin-top: 10px;
+    outline: none;
+    color: white;
+    height: 25px;
+}
+
+.inp2{
+    border: none;
+    background-color: white;
+    border-bottom: 3px solid white;
+    width: 280px;
+    font-size: 17px;
+    margin-top: 10px;
+    outline: none;
+    color: black;
+    height: 25px;
+}
+
+.inp3{
+    border: none;
+    background-color: white;
+    border-bottom: 3px solid white;
+    width: 280px;
+    font-size: 17px;
+    margin-top: 10px;
+    outline: none;
+    color: white;
+    height: 25px;
+}
+
+.inp4{
+    border: none;
+    background-color: white;
+    border-bottom: 3px solid white;
+    width: 280px;
+    font-size: 17px;
+    margin-top: 10px;
+    outline: none;
+    color: black;
+    height: 25px;
+}
+
+.text button{
+    width: 300px;
+    height: 35px;
+    background-color: red;              
+    color: white;
+    border: none;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-top: 18px;
+    outline: none;
+    cursor: pointer;
+}
+
+button:hover{
+    border: 3px solid aqua;
+    color: white;
+    font-size: 22px;
+    background-color: black;
+}
+p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+h4{
+    text-align: center;
+    margin-left: 35px;
+    color: yellow;
+    margin: 15px;
+    margin-top: 25px;
+    font-size: 35px;
+}
+h5{
+    text-align: center;
+    margin-left: 35px;
+    color: black;
+    margin: 15px;
+    margin-top: 25px;
+    font-size: 25px;
+}
